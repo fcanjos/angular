@@ -1,2 +1,3 @@
 # angular
-Angular test
+
+Tests and studies about AngularJS
